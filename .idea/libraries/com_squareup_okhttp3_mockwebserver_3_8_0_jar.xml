@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.squareup.okhttp3:mockwebserver:3.8.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/mockwebserver/3.8.0/6bcc6566897ffae93c62e53ff8e8e71af18d7593/mockwebserver-3.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/mockwebserver/3.8.0/609f7a9bd6d5ebdc65e6613f4c5de6c3567663d9/mockwebserver-3.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

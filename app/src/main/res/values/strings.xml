@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GettyExample</string>
+
+    <string name="title_activity_image_view">ImageViewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
